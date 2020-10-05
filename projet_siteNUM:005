@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>NaGrom</title>
+  </head>
+  <body>
+    <!-- Header fixer Window -->
+    <header>
+      <div class="topnav">
+        <ul>
+          <li><a href="default.asp">ABOUT</a></li>
+          <li><a href="news.asp">ARTICLES</a></li>
+          <li><a href="contact.asp">SUBSCRIBE</a></li>
+        </ul>
+        <p class="Logo">Nagrom</p>
+      </div>
+    </header>
+    <!-- fin Header -->
+    <!-- Sujet Principal -->
+    <div class="container">
+      <div class="box_principal">
+        <div class="img">
+          <img
+            src="./IMAGES/valentin-beauvais-yVUQlyRlJSw-unsplash.jpg"
+            alt=""
+          />
+          <div class="img2">
+            <img
+              src="./IMAGES/valentin-beauvais-yVUQlyRlJSw-unsplash.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+
+        <div class="text">
+          <h1>Tokyo</h1>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
+          officiis saepe sint natus. Iusto dolor autem, tenetur ratione earum
+          amet? Ipsa ratione esse impedit cupiditate quis possimus dicta
+          aspernatur sapiente?Suscipit neque ipsam itaque doloribus perspiciatis
+          maiores fuga sunt necessitatibus atque placeat adipisci eius, minus,
+          eum debitis vero eligendi repellat repellendus animi odio accusamus
+          eos nemo sit officia amet. Unde? Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Accusantium officiis saepe sint natus.
+          Iusto dolor autem, tenetur ratione earum amet? Ipsa ratione esse
+          impedit cupiditate quis possimus dicta aspernatur sapiente?Suscipit
+          neque ipsam itaque doloribus perspiciatis maiores fuga sunt
+          necessitatibus atque placeat adipisci eius, minus, eum debitis vero
+          eligendi repellat repellendus animi odio accusamus eos nemo sit
+          officia amet. Unde? Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Accusantium officiis saepe sint natus. Iusto dolor autem,
+          tenetur ratione earum amet? Ipsa ratione esse impedit cupiditate quis
+          possimus dicta aspernatur sapiente?Suscipit neque ipsam itaque
+          doloribus perspiciatis maiores fuga sunt necessitatibus atque placeat
+          adipisci eius, minus, eum debitis vero eligendi repellat repellendus
+          animi odio accusamus eos nemo sit officia amet. Unde?
+        </div>
+        <div class="img_texte">
+          <div class="photo">
+            <img src="./IMAGES/andre-benz-Mn9Fa_wQH-M-unsplash.jpg" alt="" />
+          </div>
+        </div>
+        <footer>
+          <div class="reseau">
+            <div class="reseaux">
+              <img
+                src="./IMAGES/iconfinder_online_social_media_facebook_734386.png"
+                alt="fACEBOOK"
+              />
+            </div>
+            <div class="reseaux">
+              <img
+                src="./IMAGES/iconfinder_snapchat_social_media_logo_1221584.png"
+                alt="sNAPCHAT"
+              />
+            </div>
+            <div class="reseaux">
+              <img
+                src="./IMAGES/iconfinder_twitter_online_social_media_734367.png"
+                alt="tWITTER"
+              />
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
+
